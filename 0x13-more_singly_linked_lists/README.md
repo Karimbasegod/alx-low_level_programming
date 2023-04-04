@@ -1,1 +1,1 @@
-read l$*$
+readme
